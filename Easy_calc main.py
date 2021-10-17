@@ -33,7 +33,6 @@ def _divide(args):
     divide_result = divide_result / args[x]
   return divide_result
 
-
 def taking_args():
   counter = 1
   arg = 1
